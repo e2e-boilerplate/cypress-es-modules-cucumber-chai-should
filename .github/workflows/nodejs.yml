@@ -1,8 +1,8 @@
-name: cypress-es-modules-cucumber-chai-assert
+name: cypress-es-modules-cucumber-chai-should
 'on':
   push: null
   schedule:
-    - cron: 20 2 1-31/2 * *
+    - cron: 0 0 1-31/2 * *
 jobs:
   build:
     runs-on: ubuntu-latest
