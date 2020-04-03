@@ -9,5 +9,5 @@ Given("I am on the sandbox page", async () => {
 });
 
 Then("The page header should be {string}", async (expected) => {
-  cy.get("h1").should("have.text", "Sandbox");
+  cy.get("h1").should("have.text", expected);
 });
