@@ -2,7 +2,7 @@ name: cypress-es-modules-cucumber-chai-should
 'on':
   push: null
   schedule:
-    - cron: 59 4 1-31/2 * *
+    - cron: 59 2 1-31/2 * *
 jobs:
   build:
     runs-on: ubuntu-latest
