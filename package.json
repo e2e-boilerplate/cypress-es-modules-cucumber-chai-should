@@ -21,7 +21,11 @@
     "eslint-plugin-cypress": "2.10.3",
     "eslint-plugin-import": "2.20.2",
     "eslint-plugin-prettier": "3.1.2",
+<<<<<<< HEAD
     "husky": "4.2.3",
+=======
+    "husky": "4.2.5",
+>>>>>>> 61d1aec8adef345f73f1e3b657aee7fe44fac023
     "prettier": "2.0.4",
     "pretty-quick": "2.0.1"
   },
